@@ -12,7 +12,7 @@ sub help() {
     print "untrack.pl - removes trackers from URLs
 USAGE:
     untrack.pl <URL>
-(c) xzvf
+(c) 2020 xzvf - github.com/x-zvf/untrack
 ";
 exit 1;
 }
