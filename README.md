@@ -1,17 +1,19 @@
 # untrack.pl
+---
 
 remove tracking query parameters from URLs.
-===
+
+---
 
 See the `filterrules` file for all parameters filtered.
 
-### USAGE:
+### USAGE
 
 ```
 ./untrack.pl <URL>
 ```
 
-### examples
+### EXAMPLES
 ```
 ~$ ./untrack.pl 'https://example.com/bar/baz'
 https://example.com/bar/baz
