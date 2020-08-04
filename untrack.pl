@@ -1,4 +1,5 @@
 #!/bin/env perl
+# untrack.pl - remove trackers from URLs; Copyright (C) 2020 xzvf
 use strict;
 use warnings;
 use URI;
@@ -11,7 +12,9 @@ sub help() {
     print "untrack.pl - removes trackers from URLs
 USAGE:
     untrack.pl <URL>
-(c) 2020 xzvf - github.com/x-zvf/untrack
+
+github.com/x-zvf/untrack
+Copyright (C) 2020 xzvf
 ";
     exit 1;
 }
