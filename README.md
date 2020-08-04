@@ -1,5 +1,4 @@
 # untrack.pl
----
 
 remove tracking query parameters from URLs.
 
